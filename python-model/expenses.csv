@@ -1,0 +1,362 @@
+input,output
+Pizza Hut,Food
+McDonald's,Food
+Burger King,Food
+Subway,Food
+KFC,Food
+Nando's,Food
+Foodpanda,Food
+GrabFood,Food
+Shopee Food,Food
+Kenny Rogers,Food
+Zuppa Cafe,Food
+Kenny Hills Bakers,Food
+Dome Cafe,Food
+PappaRich,Food
+A&W,Food
+Marrybrown,Food
+Domino's Pizza,Food
+Noodle,Food
+Rice,Food
+Bread,Food
+Sandwich,Food
+Biscuit,Food
+Cake,Food
+Pastry,Food
+Sushi Zanmai,Food
+Sakae Sushi,Food
+Sushi Mentai,Food
+Sushi Tei,Food
+Sushi Jiro,Food
+Sushi Hiro,Food
+Sushi King,Food
+Hai Di Lao,Food
+Sukiya,Food
+Shabu-Shabu,Food
+Mamak,Food
+Nasi Kandar,Food
+Nasi Lemak,Food
+Nasi Ayam,Food
+Nasi Goreng,Food
+Fried Chicken,Food
+Fried Rice,Food
+Fried Noodle,Food
+Kuey Teow,Food
+Yakiniku,Food
+Teppanyaki,Food
+Yoshinoya,Food
+Tesco,Grocery
+Lotus's,Grocery
+Walmart,Grocery
+Aeon Big,Grocery
+Giant,Grocery
+Econsave,Grocery
+Mydin,Grocery
+7-Eleven,Grocery
+Jaya Grocer,Grocery
+AEON,Grocery
+Cold Storage,Grocery
+Village Grocer,Grocery
+HeroMarket,Grocery
+FamilyMart,Grocery
+NSK,Grocery
+KK Mart,Grocery
+LRT Kuala Lumpur,Transportation
+MRT,Transportation
+Rapid KL,Transportation
+Petrol Station,Transportation
+Shell,Transportation
+Petron,Transportation
+Petronas,Transportation
+Caltex,Transportation
+Grab,Transportation
+Uber,Transportation
+InDrive,Transportation
+GoKL,Transportation
+KTM Komuter,Transportation
+Toll,Transportation
+AirAsia,Transportation
+Uniqlo,Clothing
+H&M,Clothing
+Zara,Clothing
+Giodano,Clothing
+Forever 21,Clothing
+Padini,Clothing
+Cotton On,Clothing
+Giordano,Clothing
+Levi's,Clothing
+Brands Outlet,Clothing
+F.O.S,Clothing
+Parkson,Clothing
+Sogo,Clothing
+GSC,Entertainment
+TGV Cinemas,Entertainment
+MBO Cinemas,Entertainment
+Loud Speaker Karaoke,Entertainment
+Kidzania,Entertainment
+Aquaria KLCC,Entertainment
+Legoland,Entertainment
+Sunway Lagoon,Entertainment
+Berjaya Times Square Theme Park,Entertainment
+Zoo Negara,Entertainment
+i-City,Entertainment
+Escape Theme Park,Entertainment
+Skytrex Adventure,Entertainment
+Genting Highlands,Entertainment
+Awana Skyway,Entertainment
+Amusement Park,Entertainment
+Water Park,Entertainment
+Theme Park,Entertainment
+Indoor Playground,Entertainment
+Outdoor Playground,Entertainment
+Trampoline Park,Entertainment
+Ice Skating Rink,Entertainment
+Bowling Alley,Entertainment
+Karaoke,Entertainment
+Cinema,Entertainment
+Concert,Entertainment
+Sunway Pyramid Ice,Entertainment
+Badminton,Sports
+Squash,Sports
+Tennis,Sports
+Table Tennis,Sports
+Golf,Sports
+Swimming,Sports
+Basketball,Sports
+Football,Sports
+Futsal,Sports
+Volleyball,Sports
+Rugby,Sports
+Hockey,Sports
+Netball,Sports
+Handball,Sports
+Baseball,Sports
+Softball,Sports
+Cricket,Sports
+Dodgeball,Sports
+Kickball,Sports
+Frisbee,Sports
+Bowling,Sports
+Billiards,Sports
+Snooker,Sports
+Pool,Sports
+Darts,Sports
+Archery,Sports
+Shooting,Sports
+Fishing,Sports
+Cycling,Sports
+Running,Sports
+Jogging,Sports
+Hiking,Sports
+Camping,Sports
+Backpacking,Sports
+Mountaineering,Sports
+Rock Climbing,Sports
+Bouldering,Sports
+Canyoning,Sports
+Harvey Norman,Home
+Dyson,Home
+Kaison,Home
+Senheng,Home
+Courts,Home
+IKEA,Home
+Philips,Home
+Panasonic,Home
+Samsung,Home
+Sony,Home
+LG,Home
+Sharp,Home
+Toshiba,Home
+Hitachi,Home
+Electrolux,Home
+Midea,Home
+Hisense,Home
+Haier,Home
+Pensonic,Home
+Cornell,Home
+Khind,Home
+Morgan,Home
+Tefal,Home
+Kenwood,Home
+Mitsubishi,Home
+Daikin,Home
+York,Home
+Acson,Home
+Lazada,E-Commerce
+e-Bay,E-Commerce
+Amazon,E-Commerce
+Shopee,E-Commerce
+Taobao,E-Commerce
+MR.DIY,Tools
+ACE Hardware,Tools
+Daiso,Tools
+Concert Ticket,Event
+Movie Premiere,Event
+Theatre Play,Event
+Sports Event,Event
+Music Festival,Event
+Conference Registration,Event
+Seminar Ticket,Event
+Workshop Fee,Event
+Art Exhibition,Event
+Charity Gala,Event
+Wedding,Event
+Birthday Party,Event
+Baskin Robbins,Dessert
+Starbucks,Dessert
+Coffee Bean & Tea Leaf,Dessert
+OldTown White Coffee,Dessert
+Häagen-Dazs,Dessert
+Secret Recipe,Dessert
+Swensen's,Dessert
+The Coffee Bean & Tea Leaf,Dessert
+Inside Scoop,Dessert
+FamilyMart Sofuto,Dessert
+Komugi,Dessert
+Tokyo Secret,Dessert
+Tealive,Desert
+Chatime,Desert
+Gong Cha,Desert
+Mi Xue,Desert
+Xing Fu Tang,Desert
+KOI Thé,Desert
+The Alley,Desert
+Ochado,Desert
+Black Whale,Desert
+JLD Dragon,Desert
+Daboba,Desert
+Popular Bookstore,Book
+Bookalicious,Book
+Silverfish Books,Book
+Lit Books,Book
+Tome & Stone,Book
+Bukku Cafe,Book
+Bukubuku,Book
+Pustaka Rakyat,Book
+Fiction Addiction,Book
+The Reading Room,Book
+Eslite Spectrum,Book
+Libreria,Book
+The Book House,Book
+A Little Bookstore,Book
+Page One,Book
+Pustaka Mahir,Book
+Book Junction,Book
+Libris,Book
+Book Palace,Book
+The Book Lounge,Book
+Book Nook,Book
+Shelf Life,Book
+Chapters,Book
+Readings,Book
+Booktopia,Book
+Book Haven,Book
+Leaf and Letter,Book
+Paperback Paradise,Book
+Book Quest,Book
+Paper Trail,Book
+Tsutaya,Book
+Novel,Book
+Fiction,Book
+Borders,Book
+Kinokuniya,Book
+BookXcess,Book
+Big Bad Wolf,Book
+Times Bookstore,Book
+Bookurve,Book
+Book Depository,Book
+Gerakbudaya,Book
+MPH Bookstore,Book
+Bata,Shoes
+Hush Puppies,Shoes
+Nike,Shoes
+Adidas,Shoes
+Puma,Shoes
+Reebok,Shoes
+Skechers,Shoes
+Converse,Shoes
+Aldo,Shoes
+Clarks,Shoes
+Timberland,Shoes
+Onitsuka Tiger,Shoes
+Birkenstock,Shoes
+Asics,Shoes
+New Balance,Shoes
+Vans,Shoes
+Everlast,Shoes
+Google Play,Game
+Steam,Game
+Xbox Live,Game
+Garena,Game
+Epic Games Store,Game
+Game On,Game
+Gamer's Hideout,Game
+GameStop,Game
+Nintendo Switch,Game
+PlayStation,Game
+"Toys ""R"" Us",Game
+Magic: The Gathering,Game
+Hospital,Medical
+Clinic,Medical
+Medical Centre,Medical
+Klinik Kesihatan,Medical
+KPJ Healthcare,Medical
+Pantai Hospital,Medical
+Columbia Asia Hospital,Medical
+Sunway Medical Centre,Medical
+Guardian,Medical
+Watsons,Medical
+Caring,Medical
+Alpro Pharmacy,Medical
+Health Lane Family Pharmacy,Medical
+Big Pharmacy,Medical
+AA Pharmacy,Medical
+Pharmacy,Medical
+Dentist,Medical
+Medical Check-Up,Medical
+Vaccination,Medical
+Medicine,Medical
+Surgery,Medical
+Dental Braces,Medical
+Insurance,Others
+Road Tax,Others
+Driving License,Others
+Car Maintenance,Others
+Car Wash,Others
+Car Parking,Others
+Car Rental,Others
+Car Loan,Others
+Car Insurance,Others
+Car Takaful,Others
+Car Roadside Assistance,Others
+Car Breakdown Service,Others
+Car Battery,Others
+Car Tyre,Others
+Car Windscreen,Others
+Car Air-Cond,Others
+Car Alarm,Others
+Car Audio,Others
+Car Modification,Others
+Car Accessories,Others
+Car Service,Others
+Home Insurance,Others
+Home Security,Others
+Home Renovation,Others
+Home Repair,Others
+Home Cleaning,Others
+CCTV,Others
+Lalamove,Others
+Courier Service,Others
+Airbnb,Others
+Hotel,Others
+Hostel,Others
+Resort,Others
+Homestay,Others
+Motel,Others
+Inn,Others
+Lodge,Others
+Guest House,Others
+B&B,Others
+Fujifilm,Others
+Canon,Others
+Nikon,Others
